@@ -1,0 +1,60 @@
+body{
+    font-family: sans-serif;
+    background-color:rgb(255, 255, 210);
+}
+*{
+    margin: 20px 10px 0 10px;
+}
+em,span,strong,img,ol,li{
+    margin: 0;
+}
+
+strong{
+    font-style: oblique;
+    text-transform:uppercase;
+
+}
+
+.list{
+    color: rgb(196, 1, 1);
+    font-style: italic;
+}
+h1{
+    background-color: rgb(160, 15, 15);
+    font-style: oblique;
+    text-align: center;
+    border-bottom: 1.5vh solid rgb(211, 27, 27);
+    color: white;
+    letter-spacing: 15px;
+    padding: 4px;
+}
+a{
+    text-decoration:none;
+    color: rgb(175, 6, 175);
+}
+h2{
+    color: white;
+    background-color: rgb(32, 151, 32);
+    padding: 4px;
+    padding-left: 20px;
+}
+input[value=Female]{
+    margin-top: 0;
+}
+
+button{
+    margin: 0 0 30px 10px;
+}
+
+h3{
+    color: rgb(190, 187, 187);
+}
+img{
+    background-color: white;
+    padding: 20px;
+    border: 2px dashed rgb(190, 187, 187);
+}
+
+table{
+    background-color: lightgray;
+}
